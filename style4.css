@@ -1,0 +1,44 @@
+a {
+    color:#999999 ;
+    text-decoration: none;
+  }
+  a:hover{
+    color: #4d4d4d;;
+  }
+  #logog{width: 300px;
+    display: block; 
+    margin: auto;
+ 　　position:relative;}
+#logow{width: 00px;
+    display: block; 
+    margin: auto;
+    position: absolute;
+    top:10px;
+    left:100px;}
+    #menu{width: 40px;
+       display: block; 
+       margin: auto;
+       position: absolute;
+       top:44px;
+       left:30px;}
+       h3{font-family: 'Noto Serif JP', serif;
+        font-size: 10px;
+        color:#999999;
+        text-align:left;
+        margin-top:10px;
+        margin-bottom:0px;
+        margin-left:120px;} 
+        h6{font-family: 'Noto Serif JP', serif;
+          font-size: 10px;
+          color:#4d4d4d;
+          text-align:left;
+          margin-top:10px;
+          margin-bottom:0px;
+          margin-left:120px;} 
+          h2{font-family: 'Noto Serif JP', serif;
+            font-size: 10px;
+            color:#999999;
+            text-align:left;
+            margin-top:20px;
+            margin-bottom:0px;
+            margin-left:100px;}
